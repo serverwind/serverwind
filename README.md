@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on everything :)
-- 📫 How to reach me: lestraeqq@gmail.com
+- 📫 How to reach me: lestraeqq@gmail.com lestrangeqq@gmail.com
 
 <!---
 lestrangeqq/lestrangeqq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
