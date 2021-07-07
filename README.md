@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lestrangeqq
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning JS.
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on everything :)
 - 📫 How to reach me: lestraeqq@gmail.com
 
