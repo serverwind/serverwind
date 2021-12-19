@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lestrangeqq, Self-taught FrontEndDeveloper/Wordpress/SEO specialist. I like football, old PC games and movies, good food :) Feel free to write  on english or russian :)
+- 👋 Hi, I’m @lestrangeqq Self-taught FrontEndDeveloper/Wordpress/SEO specialist. I like football, old PC games and movies, good food :) Feel free to write  on english or russian :)
 - 👀 I’m interested in WEB development.
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on everything :)
