@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @lestrangeqq Self-taught FrontEndDeveloper/Wordpress/SEO specialist. I like football, old PC games and movies, good food :) Feel free to write on english or russian :)
 - 👀 I’m interested in WEB development.
 - 📫 How to reach me: lestrangeqq@gmail.com
-- 🏆 <a href='http://lestrangeqq.github.io/'>My portfolio</a> 
+- 🏆 <a href='http://lestrangeqq.github.io/'>My portfolio</a>
+- ⭐ <a href='https://gist.github.com/lestrangeqq'>Github Gists</a>
 - ✨ Certificates: <a href='https://freecodecamp.org/certification/lestra/responsive-web-design'>Responsive Web Design</a>; <a href="https://drive.google.com/file/d/1UPPwhKS2Aya4flZ-YpxrBcV0b6Fiszc_/view?usp=sharing">Netology - Python</a>
 
 <a href='https://www.linkedin.com/in/lestrangeqq/'>![github](https://img.shields.io/badge/LinkedIn-242424?style=for-the-badge&logo=LinkedIn&logoColor=blue)</a>
