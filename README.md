@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lestrangeqq Self-taught FrontEndDeveloper/Wordpress/SEO specialist. I like football, old PC games and movies, good food :) Feel free to write on english or russian :)
-- 👀 I’m interested in WEB development.
+- 👀 I love coding <3
 - 📫 How to reach me: lestrangeqq@gmail.com
 - 🏆 <a href='http://lestrangeqq.github.io/'>My portfolio</a>
 - ⭐ <a href='https://gist.github.com/lestrangeqq'>Github Gists</a>
