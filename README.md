@@ -11,6 +11,7 @@
 </section><br>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ServerWind&theme=catppuccin-macchiato&hide_border=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serverwind&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <a target="blank" href='#'>![github](https://img.shields.io/badge/LinkedIn-242424?style=for-the-badge&logo=LinkedIn&logoColor=blue)</a>
 <a target="blank" href='#'>![github](https://img.shields.io/badge/Instagram-242424?style=for-the-badge&logo=Instagram&logoColor=orange)</a>
