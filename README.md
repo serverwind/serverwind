@@ -27,7 +27,6 @@
 
 <p>Feel free to reach out to me through social media! Stay connected and get in touch by visiting my profiles on various platforms.</p>
 
-<p align="center">
-<a href='#'>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-</p>
+<a href='#'>Linkedin</a> | <a href='#'>Twitter</a> | <a href='#'>Instagram</a>
+
 
