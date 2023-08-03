@@ -15,7 +15,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="50">
 </section><br>
 
-<p>Whether it's contributing to open-source projects, participating in hackathons, or joining a motivated team, I'm ready to explore new avenues for cooperation and growth</p>
+<p style='margin-bottom:2em'>Whether it's contributing to open-source projects, participating in hackathons, or joining a motivated team, I'm ready to explore new avenues for cooperation and growth.</p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ServerWind&theme=catppuccin-macchiato&hide_border=true)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serverwind&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
