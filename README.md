@@ -22,6 +22,9 @@
 
 <p>Feel free to reach out to me through social media! Stay connected and get in touch by visiting my profiles on various platforms.</p>
 
-<a target="blank" href='#'>![github](https://img.shields.io/badge/LinkedIn-242424?style=for-the-badge&logo=LinkedIn&logoColor=blue)</a>
-<a target="blank" href='#'>![github](https://img.shields.io/badge/Instagram-242424?style=for-the-badge&logo=Instagram&logoColor=orange)</a>
+<p align="center">
+<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+</p>
 
