@@ -9,7 +9,11 @@
   <img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vim/vim-plain.svg' width='40'> 
 </section><br>
 
+<p align='center'>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ServerWind&theme=catppuccin-macchiato&hide_border=true)](https://git.io/streak-stats)
+
+</p>
 
 <a target="blank" href='#'>![github](https://img.shields.io/badge/LinkedIn-242424?style=for-the-badge&logo=LinkedIn&logoColor=blue)</a>
 <a target="blank" href='#'>![github](https://img.shields.io/badge/Instagram-242424?style=for-the-badge&logo=Instagram&logoColor=orange)</a>
