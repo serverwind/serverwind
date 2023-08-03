@@ -15,8 +15,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="50">
 </section><br>
 
+<p>Whether it's contributing to open-source projects, participating in hackathons, or joining a motivated team, I'm ready to explore new avenues for cooperation and growth</p>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ServerWind&theme=catppuccin-macchiato&hide_border=true)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serverwind&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<p>Feel free to reach out to me through social media! Stay connected and get in touch by visiting my profiles on various platforms.</p>
 
 <a target="blank" href='#'>![github](https://img.shields.io/badge/LinkedIn-242424?style=for-the-badge&logo=LinkedIn&logoColor=blue)</a>
 <a target="blank" href='#'>![github](https://img.shields.io/badge/Instagram-242424?style=for-the-badge&logo=Instagram&logoColor=orange)</a>
