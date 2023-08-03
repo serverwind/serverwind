@@ -15,6 +15,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="50">
 </section><br>
 
+<ul>:desktop_computer: I'm currently learning:
+  <li>Javascript. It's never enough :smile:</li>
+  <li>React.</li>
+</ul>
+
 <p>Whether it's contributing to open-source projects, participating in hackathons, or joining a motivated team, I'm ready to explore new avenues for cooperation and growth.</p><br>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ServerWind&theme=catppuccin-macchiato&hide_border=true)](https://git.io/streak-stats)
@@ -23,8 +28,6 @@
 <p>Feel free to reach out to me through social media! Stay connected and get in touch by visiting my profiles on various platforms.</p>
 
 <p align="center">
-<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href='#'>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 </p>
 
