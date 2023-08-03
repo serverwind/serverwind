@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/serverwind/serverwind/blob/main/banner.png?raw=true)
 
-:wave: Hi!
+:wave: Hi, my name is Alex!
 
 <p>Self-taught frontend developer on a journey of continuous learning and growth. Proficient in HTML, CSS, and JavaScript, I am driven by a passion for building captivating web experiences from scratch.</p>
 
