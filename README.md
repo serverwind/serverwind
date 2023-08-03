@@ -15,7 +15,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="50">
 </section><br>
 
-<ul>:desktop_computer: I'm currently learning:
+<h3>:desktop_computer: I'm currently learning:</h3>
+<ul>
   <li>Javascript. It's never enough :smile:</li>
   <li>React.</li>
 </ul>
