@@ -1,6 +1,11 @@
 ![MasterHead](https://github.com/serverwind/serverwind/blob/main/banner.png?raw=true)
 
+:wave: Hi!
+
+<p>Self-taught frontend developer on a journey of continuous learning and growth. Proficient in HTML, CSS, and JavaScript, I am driven by a passion for building captivating web experiences from scratch.</p>
+
 <h3 align="center">Languages and Tools:</h3>
+
 <section align="center"> 
   <img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg' width='40'>
   <img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg' width='50'> 
