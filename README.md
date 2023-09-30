@@ -25,6 +25,6 @@
 
 <p>Feel free to reach out to me through social media! Stay connected and get in touch by visiting my profiles on various platforms.</p>
 
-<a href='#'>Linkedin</a> | <a href='#'>Twitter</a> | <a href='#'>Instagram</a>
+<a href='#'>Linkedin</a> | <a href='#'>Instagram</a>
 
 
