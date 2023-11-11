@@ -24,7 +24,3 @@
 <p>Whether it's contributing to open-source projects, participating in hackathons, or joining a motivated team, I'm ready to explore new avenues for cooperation and growth.</p><br>
 
 <p>Feel free to reach out to me through social media! Stay connected and get in touch by visiting my profiles on various platforms.</p>
-
-<a href='#'>Linkedin</a> | <a href='#'>Instagram</a>
-
-
