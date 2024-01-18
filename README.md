@@ -2,7 +2,7 @@
 
 <h1>:wave: Hi, my name is Alex!</h1>
 
-<p>Self-taught frontend developer on a journey of continuous learning and growth. Proficient in HTML, CSS, and JavaScript, I am driven by a passion for building captivating web experiences from scratch.</p>
+<p>I am Frontend Developer on a journey of continuous learning and growth. Proficient in HTML, CSS, and JavaScript, I am driven by a passion for building captivating web experiences from scratch.</p>
 
 <h2 align="center">Languages and Tools:</h2>
 
