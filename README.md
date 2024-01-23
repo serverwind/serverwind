@@ -22,4 +22,4 @@ Over the years, I have created a large number of landing pages for websites, pro
   <li>React.</li>
 </ul>
 
-<p>Feel free to reach out to me through social media! Stay connected and get in touch by visiting my profiles on various platforms.</p>
+<p><a href='https://www.linkedin.com/in/lestrangeqq/'>Linkedin</a></p>
