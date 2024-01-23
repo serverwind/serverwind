@@ -1,8 +1,10 @@
 ![MasterHead](https://github.com/serverwind/serverwind/blob/main/banner.png?raw=true)
 
-<h1>:wave: Hi, my name is Alex!</h1>
+<h1>👋 Hello! My name is Alexandr!</h1>
 
-<p>I am Frontend Developer on a journey of continuous learning and growth. Proficient in HTML, CSS, and JavaScript, I am driven by a passion for building captivating web experiences from scratch.</p>
+I am a Frontend Developer with proficiency in a HTML, CSS, and JavaScript.
+
+Over the years, I have created a large number of landing pages for websites, products and services, Web applications, templates for CMS Wordpress, optimized websites for key indicators of Google Core Web Vitals, and much more!
 
 <h2 align="center">Languages and Tools:</h2>
 
@@ -17,10 +19,7 @@
 
 <h3>:desktop_computer: I'm currently learning:</h3>
 <ul>
-  <li>Javascript. It's never enough :smile:</li>
   <li>React.</li>
 </ul>
-
-<p>Whether it's contributing to open-source projects, participating in hackathons, or joining a motivated team, I'm ready to explore new avenues for cooperation and growth.</p><br>
 
 <p>Feel free to reach out to me through social media! Stay connected and get in touch by visiting my profiles on various platforms.</p>
