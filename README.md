@@ -17,9 +17,4 @@ Over the years, I have created a large number of landing pages for websites, pro
   <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/webpack/webpack-plain.svg' width="40" title='Webpack'>
 </section><br>
 
-<h3>:desktop_computer: I'm currently learning:</h3>
-<ul>
-  <li>React.</li>
-</ul>
-
 <p><a href='https://www.linkedin.com/in/lestrangeqq/'>Linkedin</a></p>
